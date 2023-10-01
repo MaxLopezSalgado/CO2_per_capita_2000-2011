@@ -1,6 +1,8 @@
 # CO2 Emissions Analysis with Tableau
 
 ## Overview
+**Screenshot:**
+![Project Screenshot](![CO2 Emissions Per Capita (2000-2011)](image.png))
 
 This project demonstrates how to use Tableau to analyze and visualize CO2 emissions data from multiple sources. The goal is to create an interactive visualization that allows users to explore CO2 emissions per capita for different countries from 2000 to 2011, alongside additional data on population, GDP, and energy use.
 
@@ -57,10 +59,9 @@ To get started with this project, follow the step-by-step instructions provided 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/maximiliano-lopez-salgado/) for inquiries and collaborations.
 - Check out my other projects on [GitHub](https://github.com/MaxLopezSalgado/MaxLopezSalgado/).
 
-**Screenshot:**
-![Project Screenshot](screenshot.png)
+
 
 **View the Interactive Visualization:**
-Explore the interactive CO2 emissions visualization on [Tableau Public](#).
+Explore the interactive CO2 emissions visualization on [Tableau Public](https://public.tableau.com/app/profile/maximiliano.lopez.salgado/viz/CO2EmissionsPerCapita2000-2011_16961668208030/Sheet1).
 
 For any questions or feedback, feel free to reach out through LinkedIn or GitHub.
