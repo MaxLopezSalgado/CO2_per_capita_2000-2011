@@ -4,6 +4,8 @@
 
 ![CO2 Emissions Per Capita (2000-2011)](image.png)
 
+![CO2 Production by Region & Average CO2 Emission per Capita](image-1.png)
+
 This project demonstrates how to use Tableau to analyze and visualize CO2 emissions data from multiple sources. The goal is to create an interactive visualization that allows users to explore CO2 emissions per capita for different countries from 2000 to 2011, alongside additional data on population, GDP, and energy use.
 
 ## Project Details
