@@ -9,10 +9,10 @@ This project demonstrates how to use Tableau to analyze and visualize CO2 emissi
 As a data analyst working for a policy research institute, you are tasked with creating a visualization that helps policymakers and researchers understand the trends in CO2 emissions and their relationship with various socio-economic factors. Here's a step-by-step explanation of the project:
 
 1. **Download Datasets:** We begin by downloading the necessary datasets:
-   - [CO2 Dataset](#) (https://docs.google.com/spreadsheets/d/1NBV7WYvOX-WbB6f7JLm0jaaf5E-L9Me5fKVFgBkNJKo/template/preview)
-   - [Energy Dataset](#) (https://docs.google.com/spreadsheets/d/1OZQu4Sd6TaZMRyvECZNK9rjKPnl41ToS_ZWg3xwRnCE/template/preview)
-   - [GDP Total Dataset](#) (https://docs.google.com/spreadsheets/d/17YOeJcActweV5vJc1JjJIyMcy89Qm5AFIP1X26ymMSM/template/preview#gid=1769006840)
-   - [Total Population Dataset](#) (https://docs.google.com/spreadsheets/d/1wNQzkMZQGL9I0j7PYW1qdt9UoBYv94Yswn1ry8YBFC8/template/preview)
+   - [CO2 Dataset](https://docs.google.com/spreadsheets/d/1NBV7WYvOX-WbB6f7JLm0jaaf5E-L9Me5fKVFgBkNJKo/template/preview)
+   - [Energy Dataset](https://docs.google.com/spreadsheets/d/1OZQu4Sd6TaZMRyvECZNK9rjKPnl41ToS_ZWg3xwRnCE/template/preview)
+   - [GDP Total Dataset](https://docs.google.com/spreadsheets/d/17YOeJcActweV5vJc1JjJIyMcy89Qm5AFIP1X26ymMSM/template/preview#gid=1769006840)
+   - [Total Population Dataset](https://docs.google.com/spreadsheets/d/1wNQzkMZQGL9I0j7PYW1qdt9UoBYv94Yswn1ry8YBFC8/template/preview)
 
 2. **Data Linking in Tableau:** We use Tableau to link these datasets and create a unified dataset for analysis.
 
